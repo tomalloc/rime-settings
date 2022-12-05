@@ -55,5 +55,15 @@ import_tables:
   - luna_pinyin.shopping
   - luna_pinyin.website
   - luna_pinyin.mingxing
+  - luna_pinyin.daily
   - zhwiki
+  - c_chemistry #化学化工
+  - c_botany #植物学
+  - c_geology #地理地质
+  - c_medicine #中西医
+  - c_stock #股票基金
+  - c_finance #金融
+  - c_nalanxingde_all #纳兰性德全集
+  - c_war3_dota #魔兽争霸3与dota
+  - c_shijing_all #诗经全集
 ...
